@@ -43,3 +43,21 @@ This notebook demonstrates best practices in preprocessing, feature engineering,
 
 ---
 
+## 💼 About Me
+
+Hi! I’m a data scientist who enjoys turning raw data into decision-making tools.  
+My focus areas include business intelligence, Power BI dashboards, and insights storytelling.
+
+📎 **GitHub**: [(https://github.com/AMMAR1122-LG) ] 
+📎 **LinkedIn**: [https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]  
+
+
+---
+
+## ⭐ Let’s Connect
+
+
+
+> _“The goal is to turn data into information, and information into insight.” – Carly Fiorina_
+
+---
